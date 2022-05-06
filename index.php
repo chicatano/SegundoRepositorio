@@ -7,7 +7,7 @@
     <title>Segundo Repositorio</title>
 </head>
 <body>
-    <h1>Bedu</h1>
+    <h1>Santander - Bedu</h1>
     <?php
     echo "<p>Este es mi segunda práctica para crear un repositorio. Gracias Bedu </p>";
     echo "<p>Linea agregada con el propósito de verificar los cambios</p>";
