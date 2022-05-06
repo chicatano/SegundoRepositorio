@@ -12,6 +12,8 @@
     echo "<p>Este es mi segunda práctica para crear un repositorio. Gracias Bedu </p>";
     echo "<p>Linea agregada con el propósito de verificar los cambios</p>";
     ?>
-
+    <p>Agregamos mas lineas para poder practicar hasta volverse un experto</p>
 </body>
 </html>
+
+
